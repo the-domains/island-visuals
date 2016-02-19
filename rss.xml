@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Island Visuals]]></title>
+        <description><![CDATA[Island Visuals]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 19:12:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Island Visuals Inc.]]></title>
+            <description><![CDATA[<article><h1>Island Visuals Inc.</h1><p>Island Visuals Inc. is a privately owned graphics and visual communications manufacturer and developer on Long Island in New York, USA.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/831699d7a70054dbdff30b088bf860d533b0bcab.png"></article>]]></description>
+            <link>undefinedisland-visuals-inc/index.html</link>
+            <guid isPermaLink="false">ead35afe-bd33-4efe-adbf-a40ca7915c26</guid>
+            <pubDate>Fri, 19 Feb 2016 19:12:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
