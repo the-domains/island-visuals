@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T19:12:43.840Z'
-dateModified: '2016-02-19T19:12:36.492Z'
+datePublished: '2016-02-19T19:14:38.882Z'
+dateModified: '2016-02-19T19:13:17.708Z'
 title: Island Visuals Inc.
 author: []
 sourcePath: _posts/2016-02-19-island-visuals-inc.md
@@ -22,7 +22,7 @@ url: island-visuals-inc/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de6c58dc-1a3c-45ed-bc8a-9dbe56b60147.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/831699d7a70054dbdff30b088bf860d533b0bcab.png)
 
 # Island Visuals Inc.
 
