@@ -1,0 +1,28 @@
+name: Island Visuals
+favicon: null
+layout_spectrum: 0.15425862441770732
+typography_spectrum: 0.8473648803774267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.689191356766969
+  lightness: 0.5943807202856988
+  saturation: 0.21769450255669653
+  rhythmicContrast: 0.8668148491997272
+purpose: []
