@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-19T19:14:38.882Z'
-dateModified: '2016-02-19T19:13:17.708Z'
+datePublished: '2016-02-29T18:39:53.662Z'
+dateModified: '2016-02-19T19:14:44.030Z'
 title: Island Visuals Inc.
 author: []
 sourcePath: _posts/2016-02-19-island-visuals-inc.md
